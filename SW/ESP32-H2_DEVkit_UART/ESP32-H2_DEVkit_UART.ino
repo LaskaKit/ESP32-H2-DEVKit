@@ -1,8 +1,8 @@
 /*
-* Example code for ESP32-S3-DEVkit evaluation board made by laskakit.cz
+* Example code for ESP32-H2-DEVkit evaluation board made by laskakit.cz
 * Firmware sends message through serial com port (UART)
 * "laskakit.cz" 
-* "ESP32-S3-DEVkit"
+* "ESP32-H2-DEVkit"
 * The message is sent every second
 *
 * Created by (c) laskakit.cz 2023
@@ -21,6 +21,6 @@ void setup() {
  
 void loop() {
   Serial.println("laskakit.cz");
-  Serial.println("ESP32-S3-DEVkit");
+  Serial.println("ESP32-H2-DEVkit");
   delay(1000);
 }
