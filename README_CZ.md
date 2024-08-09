@@ -10,4 +10,21 @@ Deska již obsahuje integrovaný programátor a tak již není nutné žádný j
 
 Pro rychlý start s ESP32-H2 DevKit jsme připravili několik vzorových kódu https://github.com/LaskaKit/ESP32-H2-DEVKit/tree/main/SW
 
+I2C (uŠup):</br>
+SDA - IO11</br>
+SCL - IO10</br>
+Napájení - IO12</br>
+</br>
+Měření napětí baterie:</br>
+IO2</br>
+</br>
+RGB LED:</br>
+Data - IO9</br>
+</br>
+SPI (uŠup):</br>
+CS - IO1</br>
+SDI/MOSI - IO5</br>
+MISO - IO0</br>
+CLK - IO4</br>
+</br>
 ## Vývojový kit ESP32-H2 DevKit můžeš zakoupit u nás na https://www.laskakit.cz/laskakit-esp32-h2-devkit-bluetooth--zigbee--thread--matter/
