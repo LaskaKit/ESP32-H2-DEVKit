@@ -10,4 +10,22 @@ The board already contains an integrated programmer and so there is no need to u
 
 For a quick start with the ESP32-H2 DevKit we have prepared some sample codes https://github.com/LaskaKit/ESP32-H2-DEVKit/tree/main/SW
 
+I2C (uŠup):</br>
+SDA - IO11</br>
+SCL - IO10</br>
+Napájení - IO12</br>
+</br>
+Měření napětí baterie:</br>
+IO2</br>
+</br>
+RGB LED:</br>
+Data - IO9</br>
+</br>
+SPI (uŠup):</br>
+CS - IO1</br>
+SDI/MOSI - IO5</br>
+MISO - IO0</br>
+CLK - IO4</br>
+</br>
+
 ## You can buy on https://www.laskakit.cz/laskakit-esp32-h2-devkit-bluetooth--zigbee--thread--matter/
